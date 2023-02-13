@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$alphatest" 1
+	"$translucent" 1
+	"$basetexture" "models/props_foliage/lanzareth_pine_card_02"
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1
+}
+
