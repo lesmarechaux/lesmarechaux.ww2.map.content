@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_furniture/hutch01"
+	"$bumpmap" "models\props_furniture/hutch01_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"$envmaptint" "[ .29 .27 .25 ]"
+
+	"$model" 1
+	"$surfaceprop" "wood"
+}

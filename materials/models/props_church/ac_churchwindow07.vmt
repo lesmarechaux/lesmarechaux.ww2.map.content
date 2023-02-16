@@ -1,0 +1,17 @@
+"Refract"
+{
+	"$surfaceprop" "glass"
+	"$model" "1"
+	"$bluramount" "1"
+	"$refractamount" ".3"
+	"$refracttint" "[.9 .9 .9]"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.7 .7 .7]"
+	"$translucent" 1
+	"$normalmapalphaenvmapmask" 1
+	"$normalmap" "models\props_church\ac_churchwindow07_normal"
+	
+	"$REFRACTTINTTEXTURE" "models\props_church\ac_churchwindow07"
+
+}

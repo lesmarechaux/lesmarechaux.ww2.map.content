@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"nature/ah_grass_dead_modified_001"
+	"$surfaceprop"		"grass"
+	"%detailtype"		"ah_tall_thick_grass1"
+	"%keywords"		"rnl"
+}

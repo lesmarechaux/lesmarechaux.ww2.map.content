@@ -1,0 +1,22 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "nature/egu_snow01"
+	"$baseTexture2" "nature/r_dirt3_high"
+
+	// "$blendmodulatetexture" "nature/egu_01blend"
+
+	"$bumpmap" "nature/egu_snow01_normal"
+
+	"$basetexturenoenvmap" "0"
+	"$basetexture2noenvmap" "1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" ".5"
+	"$envmapsaturation" ".5"
+
+	"$surfaceprop" "snow"
+	"$surfaceprop2" "dirt"
+
+	"%keywords" "rnl"
+}
