@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fmgf_falaise_v2_d/c-12561_-2562_132"
+		"Proxies"
+		{
+		}
+	}
+}

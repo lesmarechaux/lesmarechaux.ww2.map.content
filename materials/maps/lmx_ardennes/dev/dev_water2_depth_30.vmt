@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/dev/dev_water2.vmt"
+	"insert"
+	{
+		"$waterdepth"		"30"
+	}
+}

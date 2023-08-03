@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b_marie.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_sud/c1888_3771_-87"
+		"Proxies"
+		{
+		}
+	}
+}

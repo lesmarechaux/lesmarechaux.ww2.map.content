@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER5.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_westerwaldformaall/c-128_3795_124"
+		"Proxies"
+		{
+		}
+	}
+}

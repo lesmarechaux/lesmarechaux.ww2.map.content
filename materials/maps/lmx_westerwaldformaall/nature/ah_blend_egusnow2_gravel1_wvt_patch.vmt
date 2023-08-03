@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/egu_snow02"
+	"$bumpmap"		"nature/egu_snow02_normal"
+	"$surfaceprop"		"snow"
+	"%tooltexture"		"nature/ah_blend_egusnow2_gravel1_tt"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"0.500000"
+	"$envmapsaturation"		"0.500000"
+}

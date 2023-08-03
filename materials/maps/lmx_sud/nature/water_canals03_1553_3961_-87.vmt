@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_sud/c1553_3961_-87"
+		"Proxies"
+		{
+		}
+	}
+}

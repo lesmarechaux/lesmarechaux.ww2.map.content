@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_COAST01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_sud/c1767_3965_-87"
+		"Proxies"
+		{
+		}
+	}
+}

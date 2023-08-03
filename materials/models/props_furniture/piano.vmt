@@ -1,6 +1,5 @@
 "VertexLitGeneric"
 {
 	"$baseTexture" "models/props_furniture/piano"
-	"$surfaceprop" "piano"
 }
 
