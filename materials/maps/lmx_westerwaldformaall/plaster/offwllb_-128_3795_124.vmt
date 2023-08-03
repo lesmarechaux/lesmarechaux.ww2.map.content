@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/PLASTER/OFFWLLB.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/lmx_westerwaldformaall/c-128_3795_124"
-	}
-}

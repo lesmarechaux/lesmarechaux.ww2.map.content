@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/CITADEL_TILEFLOOR016A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/fmgf_falaise_v2_d/c10444_3584_-351"
-	}
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/maps/lmx_sud/nature/water_coast01_1553_3961_-87.vmt"
-	"insert"
-	{
-		"$waterdepth"		"5"
-	}
-}

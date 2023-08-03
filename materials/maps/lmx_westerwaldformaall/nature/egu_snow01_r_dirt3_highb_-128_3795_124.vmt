@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/NATURE/EGU_SNOW01_R_DIRT3_HIGHB.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/lmx_westerwaldformaall/c-128_3795_124"
-	}
-}

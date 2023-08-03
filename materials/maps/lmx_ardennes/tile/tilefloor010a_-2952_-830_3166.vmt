@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/TILE/TILEFLOOR010A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/lmx_ardennes/c-2952_-830_3166"
-	}
-}
