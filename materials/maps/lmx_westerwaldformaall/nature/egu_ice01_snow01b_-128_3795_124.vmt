@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/NATURE/EGU_ICE01_SNOW01B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/lmx_westerwaldformaall/c-128_3795_124"
-	}
-}

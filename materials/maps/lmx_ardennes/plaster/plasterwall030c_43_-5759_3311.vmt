@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL030C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c43_-5759_3311"
+	}
+}

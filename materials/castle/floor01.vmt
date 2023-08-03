@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+$basetexture "castle/floor01"
+$bumpmap "castle/floor01n"
+$surfaceprop Tile
+
+$envmap "env_cubemap"
+$normalmapalphaenvmapmask 1
+$envmaptint "[0.76 0.76 0.76]"
+$fresnelreflection 0.8
+}

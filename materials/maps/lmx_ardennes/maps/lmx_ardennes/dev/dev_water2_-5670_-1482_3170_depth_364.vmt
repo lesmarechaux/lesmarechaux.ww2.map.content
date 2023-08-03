@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/lmx_ardennes/dev/dev_water2_-5670_-1482_3170.vmt"
+	"insert"
+	{
+		"$waterdepth"		"364"
+	}
+}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/maps/fmgf_falaise_v2_d/dev/dev_water2_4067_-9868_-486.vmt"
-	"insert"
-	{
-		"$waterdepth"		"208"
-	}
-}

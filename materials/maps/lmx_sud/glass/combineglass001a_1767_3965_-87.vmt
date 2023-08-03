@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/COMBINEGLASS001A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/lmx_sud/c1767_3965_-87"
-	}
-}

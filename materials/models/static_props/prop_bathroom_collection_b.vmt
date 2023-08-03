@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture"				"models\static_props\prop_bathroom_collection_b"
+	"$bumpmap" 				"models\static_props\prop_bathroom_collection_b_norm"
+	
+    
+  	"$roughnessmultiplier"       	 ".8"
+    	"$metal"                    	"0"
+}

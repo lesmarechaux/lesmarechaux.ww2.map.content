@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/INTERIORTILE03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-5455_2903_3532"
+	}
+}

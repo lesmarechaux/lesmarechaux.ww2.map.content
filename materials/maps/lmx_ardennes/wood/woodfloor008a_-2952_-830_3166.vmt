@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODFLOOR008A.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/lmx_ardennes/c-2952_-830_3166"
+		}
+	}
+}
