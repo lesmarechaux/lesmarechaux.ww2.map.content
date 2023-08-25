@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/HR_W/INFERNO/HR_INFDOOR_A_COLOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_falaise_v2g/c1978_-2216_-344"
+	}
+}

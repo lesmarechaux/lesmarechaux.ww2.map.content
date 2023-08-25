@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CASTLE/FLOOR01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_falaise_v2g/c10423_3948_-351"
+	}
+}

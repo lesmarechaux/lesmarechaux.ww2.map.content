@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/lmx_falaise_v2g/dev/dev_water2_4067_-9868_-486.vmt"
+	"insert"
+	{
+		"$waterdepth"		"208"
+	}
+}

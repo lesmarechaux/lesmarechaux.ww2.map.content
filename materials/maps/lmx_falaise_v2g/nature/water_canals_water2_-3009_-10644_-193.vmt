@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_WATER2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_falaise_v2g/c-3009_-10644_-193"
+		"Proxies"
+		{
+		}
+	}
+}

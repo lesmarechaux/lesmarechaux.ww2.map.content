@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"nature\ah_dirt_ground001"
+	"$surfaceprop"		"dirt"
+	"%keywords"		"ah_blend"
+}

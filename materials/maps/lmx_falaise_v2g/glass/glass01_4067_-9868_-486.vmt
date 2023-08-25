@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASS01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_falaise_v2g/c4067_-9868_-486"
+		"$crackmaterial"		"maps/lmx_falaise_v2g/glass/glasswindowbreak070b_4067_-9868_-486"
+	}
+}
