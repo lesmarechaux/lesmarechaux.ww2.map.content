@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASS01_INFERNO.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/lmx_falaise_v2g/c10187_3627_-351"
-	}
-}

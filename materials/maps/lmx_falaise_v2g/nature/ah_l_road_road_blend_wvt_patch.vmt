@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$baseTexture"		"nature\ah_dirt_ground001"
-	"$bumpmap"		"nature\ah_dirt1_nrm"
-	"$surfaceprop"		"dirt"
-	"%keywords"		"rnl_blend"
-	"%detailtype"		"ah_tall_thick_grass1"
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/maps/lmx_falaise_v2g/nature/water_canals_water_murky_-4326_-3552_-350.vmt"
-	"insert"
-	{
-		"$waterdepth"		"967"
-	}
-}
