@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/OFFDESKTOP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_formaus/c-128_3795_124"
+	}
+}

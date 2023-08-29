@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_formaus/c-128_3795_124"
+		"Proxies"
+		{
+		}
+	}
+}
