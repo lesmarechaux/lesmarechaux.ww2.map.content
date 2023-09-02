@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/structures_military/tent_modular_int_co"
+	"$bumpmap" "models/structures_military/tent_modular_int_nohq"
+	"$alphatest" 1
+//	"$translucent" 1
+	"$model" 1
+}

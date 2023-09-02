@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/structures_military/tent_east_desert_co"
+	"$nocull" 1
+}
