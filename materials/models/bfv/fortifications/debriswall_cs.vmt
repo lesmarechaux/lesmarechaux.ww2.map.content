@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/fortifications/DebrisWall_CS"
+"$bumpmap" "models/bfv/fortifications/DebrisWall_NX"
+"$nocull" 1
+"$phong" "1"
+"$phongexponent" "8"
+"$phongboost" "0.015"	
+"$phongfresnelranges"	"[5 7 8]"
+}

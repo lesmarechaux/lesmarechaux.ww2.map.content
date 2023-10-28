@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\fortifications\prop_sandbag_a"
+	"$bumpmap" 					"models\fortifications\prop_sandbag_a_norm"
+
+	$detail detail\ir_fabric_detail
+	$detailscale 10
+	$detailblendfactor 3
+	$detailblendmode 0
+	
+	
+}
+

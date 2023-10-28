@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/fortifications/T_Plank_01_Snow_CS"
+"$bumpmap" "models/bfv/fortifications/T_Plank_01_Snow_NR"
+"$nocull" 1
+"$phong" "1"
+"$phongexponent" "8"
+"$phongboost" "0.015"	
+"$phongfresnelranges"	"[5 7 8]"
+}

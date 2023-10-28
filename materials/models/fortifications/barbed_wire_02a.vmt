@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/fortifications/barbed_wire_02a"
+	"$nocull" 1
+	"$alphatest" 1
+	//"$translucent" 1
+	"$allowalphatocoverage" 1
+}
