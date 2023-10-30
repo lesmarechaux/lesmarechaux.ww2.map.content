@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/hourofvictory/military_tent_opened_dm"
+"$bumpmap" "models/hourofvictory/military_tent_medium_nm"
+"$surfaceprop" "wood"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "0"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

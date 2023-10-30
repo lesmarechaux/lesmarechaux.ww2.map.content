@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/hourofvictory/fuel_tank_dm"
+"$bumpmap" "models/hourofvictory/fuel_tank_nm"
+"$ambientocculusion" "models/hourofvictory/fuel_tank_sm"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

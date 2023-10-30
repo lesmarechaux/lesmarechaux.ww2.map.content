@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/hourofvictory/barbed_wire_wood_dm"
+"$bumpmap" "models/hourofvictory/barbed_wire_wood_nm"
+"$ambientocculusion" "models/hourofvictory/barbed_wire_wood_sm"
+"$surfaceprop" "wood"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/hourofvictory/africa_tent_b_dm"
+"$bumpmap" "models/hourofvictory/africa_tent_b_nm"
+"$surfaceprop" "metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "0"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}
