@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CASTLE/WOODFLOOR01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-1965_-1328_3166"
+	}
+}

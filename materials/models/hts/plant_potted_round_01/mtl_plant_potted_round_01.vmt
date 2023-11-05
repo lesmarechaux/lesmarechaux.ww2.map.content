@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/hts/plant_potted_round_01/mtl_plant_potted_round_01"
+	$bumpmap "models/hts/plant_potted_round_01/mtl_plant_potted_round_01_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmapcontrast 1
+	$envmapfresnel 1
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 10
+	$phongboost 8
+	$phongalbedoboost 8
+}

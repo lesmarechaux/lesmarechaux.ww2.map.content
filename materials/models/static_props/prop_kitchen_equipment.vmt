@@ -1,0 +1,9 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"				"models\static_props\prop_kitchen_equipment"
+	"$bumpmap" 				"models\static_props\prop_kitchen_equipment_norm"
+
+    
+ // 	"$roughnessmultiplier"       	 "1"
+ //   	"$metal"                    	"0"
+}

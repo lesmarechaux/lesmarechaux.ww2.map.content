@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "cs_italy/ironmetal01"
+	$surfaceprop Metal
+
+	$detail "detail/noise_detail_01"
+	$detailscale 6
+	$detailblendfactor 0.5
+
+	$model 1
+}

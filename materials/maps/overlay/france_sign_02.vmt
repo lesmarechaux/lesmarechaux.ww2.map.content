@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+       
+{
+       	"$baseTexture" "maps/overlay/france_sign_02"
+       	"$translucent" 1
+       	"$decal" 1
+	"$decalscale" 0.25
+	"$surfaceprop" "gravel"
+	"%keywords" "overlay, decal, sign"
+}

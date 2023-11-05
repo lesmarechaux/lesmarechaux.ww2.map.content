@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture"				"models\static_props\prop_stove_01"
+	"$bumpmap" 				"models\static_props\prop_stove_01_norm"
+	
+    
+  	"$roughnessmultiplier"       	 "1"
+    	//"$metal"                    	"1"
+}

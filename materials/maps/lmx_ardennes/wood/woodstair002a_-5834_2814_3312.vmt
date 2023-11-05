@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODSTAIR002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-5834_2814_3312"
+	}
+}

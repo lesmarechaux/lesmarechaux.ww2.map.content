@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture "castle/brick04"
+//$bumpmap "castle/brick04n"
+
+
+
+//$envmap "cubemaps/urban_cube01"
+$envmaptint "[0.27 0.15 0.13]"
+$envmapcontrast 0.5
+$envmapsaturation 0.3
+}

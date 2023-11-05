@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/WALLPAPER/DOI_WALLPAPER_F.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-4402_-1737_3378"
+	}
+}

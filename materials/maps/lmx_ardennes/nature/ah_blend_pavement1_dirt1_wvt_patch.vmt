@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/r_pavement1_highres"
+	"$surfaceprop"		"gravel"
+	"%keywords"		"rnl"
+}

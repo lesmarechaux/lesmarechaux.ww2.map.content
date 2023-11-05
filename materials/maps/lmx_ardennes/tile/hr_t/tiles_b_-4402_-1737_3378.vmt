@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/HR_T/TILES_B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-4402_-1737_3378"
+	}
+}

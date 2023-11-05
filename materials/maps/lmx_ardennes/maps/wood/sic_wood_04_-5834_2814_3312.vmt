@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/WOOD/SIC_WOOD_04.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-5834_2814_3312"
+	}
+}

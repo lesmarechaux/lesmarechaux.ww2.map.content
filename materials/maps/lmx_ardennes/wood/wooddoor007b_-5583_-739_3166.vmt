@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODDOOR007B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-5583_-739_3166"
+	}
+}

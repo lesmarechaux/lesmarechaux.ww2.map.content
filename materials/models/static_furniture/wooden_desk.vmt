@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/static_furniture/wooden_desk"
+	"$bumpmap" 		  "models\vehicles\uh_60_wreck_normal"
+	"$halflambert"				"0"
+	
+}

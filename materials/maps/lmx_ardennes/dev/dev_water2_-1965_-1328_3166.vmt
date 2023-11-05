@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c-1965_-1328_3166"
+		"Proxies"
+		{
+		}
+	}
+}

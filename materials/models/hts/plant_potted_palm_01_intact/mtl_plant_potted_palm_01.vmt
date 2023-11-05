@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/hts/plant_potted_palm_01_intact/mtl_plant_potted_palm_01"
+	$bumpmap "models/hts/plant_potted_palm_01_intact/mtl_plant_potted_palm_01_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[1 1 0]"
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 10
+	$phongboost 8
+	$phongalbedoboost 8
+}

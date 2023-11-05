@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lmx_ardennes/c43_-5759_3311"
+		"$crackmaterial"		"maps/lmx_ardennes/glass/glasswindowbreak070b_43_-5759_3311"
+	}
+}
