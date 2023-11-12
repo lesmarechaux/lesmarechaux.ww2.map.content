@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/foliage/T_WEU_Mushroom_01_CS"
+"$bumpmap" "models/bfv/foliage/T_WEU_Mushroom_01_NX"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "6"
+"$phongboost" "0.05"	
+"$phongfresnelranges"	"[1 7 15]"
+$ambientocclusion "0"
+}

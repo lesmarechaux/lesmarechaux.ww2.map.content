@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/foliage/WEU_BushRiverSolidLeaves_tiling_C"
+"$bumpmap" "models/bfv/foliage/WEU_BushRiverSolidLeaves_01_NX"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "6"
+"$phongboost" "0.15"	
+"$phongfresnelranges"	"[1 7 15]"
+$ambientocclusion "0"
+}
